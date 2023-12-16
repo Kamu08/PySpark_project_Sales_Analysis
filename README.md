@@ -1,4 +1,7 @@
-# PySpark Project: Sales Analysis
+
+<h1 align="center">
+       ✨  PySpark Project: Sales Analysis  ✨
+</h1>
 
 ## Description
 
